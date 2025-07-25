@@ -1,1 +1,1 @@
-<img width="5120" height="1440" alt="Banner" src="https://github.com/user-attachments/assets/965e1e83-0140-4108-8e0a-780b65020135" />
+<img width="1920" height="1080" alt="Discord" src="https://github.com/user-attachments/assets/6ce8e2ec-a9bc-4e6b-bcf7-1300c895e80f" />
